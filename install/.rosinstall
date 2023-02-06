@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/brendan/catkin_ws_arm/install/setup.sh
